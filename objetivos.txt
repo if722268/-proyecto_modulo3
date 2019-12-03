@@ -1,0 +1,9 @@
+Objetivo general:
+Comparar por medio de pyton como se comportaria una capitalizacion de interes compuesto por el paso del tiempo.  
+
+Objetivo(s) especifico:
+Obtener resultados positivos por medio de un programa que nos ayude a observar el tiempo en el que tendremos ganancias especificas.  
+
+Conclusion:
+Gracias al programa logramos visualizar que las ganancias son exponenciales y que asi como o son positivas pueden llegar a ser negativas.
+
